@@ -36,8 +36,17 @@ import airevent from "./tech/airevent.png"
 import bountiply from "./tech/bountiply.png"
 import syngenta from "./tech/syngenta.png"
 
+import code from "./tech/code.svg"
+import concepts from "./tech/concepts.svg"
+import designs from "./tech/designs.svg"
+import ideas from "./tech/ideas.svg"
+
 
 export {
+  code,
+  concepts,
+  designs,
+  ideas,
   logo,
   mylogo,
   backend,
