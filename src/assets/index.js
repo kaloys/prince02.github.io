@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import mylogo from "./mylogo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -30,8 +31,15 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import yamaha from "./tech/yamaha.png"
+import airevent from "./tech/airevent.png"
+import bountiply from "./tech/bountiply.png"
+import syngenta from "./tech/syngenta.png"
+
+
 export {
   logo,
+  mylogo,
   backend,
   creator,
   mobile,
@@ -59,4 +67,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  yamaha,
+  airevent,
+  bountiply,
+  syngenta
 };

@@ -8,7 +8,9 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
-
+import TitleHeader from './TitleHeader';
+import TechIconCardExperience from './TechIconCardExperience';
+import TechStack from './TechStack';
 
 export {
   Hero,
@@ -23,5 +25,8 @@ export {
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
-  StarsCanvas
+  StarsCanvas,
+  TitleHeader,
+  TechIconCardExperience,
+  TechStack,
 };
